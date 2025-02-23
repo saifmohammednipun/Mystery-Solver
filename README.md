@@ -10,7 +10,6 @@
 - **Bayesian Inference**: The system applies Bayesian networks to calculate the likelihood of suspects being guilty based on inputted clues.
 - **Interactive UI**: The application provides an easy-to-use interface for adding clues, viewing results, and understanding the logic behind the probability calculations.
 - **Mystery Scenarios**: The app can be used for various fictional mystery scenarios, making it adaptable to a variety of situations.
-   ```
 
 ## Usage
 
@@ -82,4 +81,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Thanks to all contributors and open-source libraries that helped in the development of ClueChain.
-- Special thanks to (Dr. Mohammad Shifat-E-Rabbi [MSRb])['https://sites.google.com/view/m-shifat-e-rabbi']
+- Special thanks to [Dr. Mohammad Shifat-E-Rabbi (MSRb)](https://sites.google.com/view/m-shifat-e-rabbi).
