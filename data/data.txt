@@ -1,0 +1,89 @@
+**Scenario 1: The Locked Room Murder**
+Description: A renowned author is found dead in his study, locked from the inside. The only key is in his pocket.
+Suspects:
+
+1. The loyal assistant
+2. The rival writer
+3. The estranged wife
+4. The mysterious fan
+
+**Scenario 2: The Missing Heirloom**
+Description: A priceless family heirloom vanishes during a grand ball at a wealthy estate.
+Suspects:
+
+1. iThe jealous cousin
+2. The indebted butler
+3. The visiting historian
+4. The shifty housemaid
+
+**Scenario 3: The Vanishing Train Passenger**
+Description: A businessman boards a train but is nowhere to be found when it arrives at its destination.
+Suspects:
+
+1. The nervous-looking conductor
+2. The silent stranger in the next seat
+3. The wealthy investor traveling with him
+4. The train’s engineer
+
+**Scenario 4: The Poisoned Tea**
+Description: A socialite collapses at a tea party after sipping from her cup, poisoned in front of a room full of guests.
+Suspects:
+
+1. The envious best friend
+2. The jilted ex-lover
+3. The ambitious newcomer
+4. The butler who served the tea
+
+**Scenario 5: The Haunted Lighthouse**
+Description: The keeper of a remote lighthouse disappears without a trace, leaving behind an unfinished log entry.
+Suspects:
+
+1. The visiting journalist
+2. The rival keeper
+3. The sailor who recently docked
+4. The island hermit
+
+**Scenario 6: The Cursed Painting**
+Description: A famous art collector is found dead in front of a newly acquired painting rumored to be cursed.
+Suspects:
+
+1. The resentful artist
+2. The envious rival collector
+3. The skeptical art dealer
+4. The collector’s nervous assistant
+
+**Scenario 7: The Silent Witness**
+Description: A pet parrot keeps repeating a chilling phrase after its owner’s murder.
+Suspects:
+
+1. The greedy nephew
+2. The impatient business partner
+3. The secretive maid
+4. The eccentric bird trainer
+
+**Scenario 8: The Vanishing Manuscript**
+Description: The final manuscript of a best-selling author goes missing from a secure vault just before publication.
+Suspects:
+
+1. The rejected co-author
+2. The rival publisher
+3. The anxious editor
+4. The obsessed fan
+
+**Scenario 9: The Shipwreck Secret**
+Description: A diver investigating an old shipwreck is found unconscious with a cryptic map in his hand.
+Suspects:
+
+1. The treasure hunter
+2. The museum curator
+3. The shady financier
+4. The rival diver
+
+**Scenario 10: The Disappearing Statue**
+Description: A massive statue vanishes overnight from a public square, leaving no sign of how it was moved.
+Suspects:
+
+1. The sculptor’s apprentice
+2. The construction company owner
+3. The city mayor
+4. The black-market art dealer
