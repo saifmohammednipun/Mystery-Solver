@@ -2,4 +2,3 @@ pgmpy
 streamlit
 networkx
 matplotlib
-manim
