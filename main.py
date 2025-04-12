@@ -28,7 +28,7 @@ except ImportError:
 
 st.set_page_config(page_title="Bayesian Mystery Solver", layout="wide")
 
-st.title("🕵️‍♂️ Bayesian Mystery Solver")
+st.title("🕵️‍♂️ ClueChain: A Bayesian Network-Based Mystery Solver Application")
 st.markdown("Using Bayesian Networks to solve 'The Case of the Missing Manuscript'")
 st.markdown("""---""") # Separator
 
