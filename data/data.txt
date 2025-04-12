@@ -11,7 +11,7 @@ Suspects:
 Description: A priceless family heirloom vanishes during a grand ball at a wealthy estate.
 Suspects:
 
-1. iThe jealous cousin
+1. The jealous cousin
 2. The indebted butler
 3. The visiting historian
 4. The shifty housemaid
