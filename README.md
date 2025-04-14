@@ -48,6 +48,14 @@ ClueChain/
     └── demo_video.mp4          # One-minute demo video of the project
 ```
 
+## 🧠 Technologies Used
+
+- [Streamlit](https://streamlit.io/) - Web application interface
+- [pgmpy](https://pgmpy.org/) - Probabilistic graphical models
+- [Graphviz](https://graphviz.org/) - Visualization of network structures
+- Python 3.8+
+
+
 ## Requirements
 
 This project relies on the following Python libraries:
