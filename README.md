@@ -48,23 +48,17 @@ ClueChain/
     └── demo_video.mp4          # One-minute demo video of the project
 ```
 
-## 🧠 Technologies Used
-
-- [Streamlit](https://streamlit.io/) - Web application interface
-- [pgmpy](https://pgmpy.org/) - Probabilistic graphical models
-- [Graphviz](https://graphviz.org/) - Visualization of network structures
-- Python 3.8+
-
-
 ## Requirements
 
-This project relies on the following Python libraries:
+This project relies on the following technologies:
 
 - `numpy` - For numerical calculations
 - `pgmpy` - For creating and manipulating Bayesian networks
-- `networkx` - For creating and manipulating Bayesian networks
+- `streamlit` Web application interface
+- `Graphviz` - Visualization of network structures
 - `matplotlib` - For visualizing the Bayesian network and results
 - `json` - For handling input and output in JSON format
+- - Python 3.8+
 
 To install all the necessary dependencies, simply run:
 
