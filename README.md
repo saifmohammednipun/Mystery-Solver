@@ -35,17 +35,16 @@ ClueChain/
 ├── data/                    # Subfolder containing datasets
 │   └── sample_data.json     # Example dataset used for testing
 │
-├── support/                 # Subfolder containing other code files
-│   ├── bayesian_network.py  # Code for Bayesian network logic
-│   ├── clue_input.py        # Code to handle clue input from the user
-│   └── probability_calculations.py # Code for calculating probabilities
+├── support/__pycache__      # Subfolder containing other code files
+│   ├── __init__.py          # Code for Bayesian network logic
+│   ├── mystery_solver.py    # Code to handle clue input from the user
 │
-└── others/                  # Subfolder for project-related documents
+└── others/                      # Subfolder for project-related documents
     ├── final_presentation.pptx  # Final presentation file
-    ├── final_report.pdf        # Final project report
-    ├── update_presentation.pptx  # Updated presentation file
+    ├── final_report.pdf         # Final project report
+    ├── update_presentation.pptx # Updated presentation file
     ├── update_report.pdf        # Updated project report
-    └── demo_video.mp4          # One-minute demo video of the project
+    └── demo_video.mp4           # One-minute demo video of the project
 ```
 ## App Demo Video
 - https://drive.google.com/file/d/1K8eWZnUt700NAgQ1YDsMNBYJ5NNY8z62/view?usp=sharing
