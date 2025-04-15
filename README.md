@@ -47,6 +47,9 @@ ClueChain/
     ├── update_report.pdf        # Updated project report
     └── demo_video.mp4          # One-minute demo video of the project
 ```
+## App Demo Video
+- https://drive.google.com/file/d/1K8eWZnUt700NAgQ1YDsMNBYJ5NNY8z62/view?usp=sharing
+
 
 ## Requirements
 
@@ -58,7 +61,7 @@ This project relies on the following technologies:
 - `Graphviz` - Visualization of network structures
 - `matplotlib` - For visualizing the Bayesian network and results
 - `json` - For handling input and output in JSON format
-- - Python 3.8+
+- Python 3.8+
 
 To install all the necessary dependencies, simply run:
 
